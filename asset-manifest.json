@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/henggu/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/henggu/static/js/main.1cfee64f.chunk.js",
+    "main.js.map": "/henggu/static/js/main.1cfee64f.chunk.js.map",
+    "runtime-main.js": "/henggu/static/js/runtime-main.a56f2234.js",
+    "runtime-main.js.map": "/henggu/static/js/runtime-main.a56f2234.js.map",
+    "static/js/2.a0a6534b.chunk.js": "/henggu/static/js/2.a0a6534b.chunk.js",
+    "static/js/2.a0a6534b.chunk.js.map": "/henggu/static/js/2.a0a6534b.chunk.js.map",
+    "static/js/3.368a82db.chunk.js": "/henggu/static/js/3.368a82db.chunk.js",
+    "static/js/3.368a82db.chunk.js.map": "/henggu/static/js/3.368a82db.chunk.js.map",
+    "index.html": "/henggu/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/henggu/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a0a6534b.chunk.js.LICENSE.txt": "/henggu/static/js/2.a0a6534b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/henggu/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a56f2234.js",
+    "static/js/2.a0a6534b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1cfee64f.chunk.js"
+  ]
+}
